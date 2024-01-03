@@ -26,7 +26,7 @@ You can see examples of requests:
 * *Book found*
 ![book found](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books/assets/111995212/cf606ab5-1b2b-4b82-a8ad-f6c26680a5e3)
 
- ### I sed Run Collection for run tests:
+ ### I used Run Collection for run tests:
  ![run collection](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books/assets/111995212/92f07002-36ea-417b-9004-79352320784a)
 
   
