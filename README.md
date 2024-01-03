@@ -21,8 +21,6 @@ You can see examples of requests:
 #### I created tests in Postman written in Javascript to check various functionalities:
 * *Verify if status code is 200* and *Status should be OK*
 ![code 200 and ok](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books/assets/111995212/d7efa6e9-80d5-4c7e-ac2b-6b10421cc13f)
-* *Verify if status code is 201*
-![status 201](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books/assets/111995212/5c0513a6-5d5c-4699-9a22-2139ec691b12)
 * *Status code is 204*
 ![status 204](https://github.com/IoanaFlore/API-Testing-Project-Simple-Books/assets/111995212/7895118d-7033-45c3-befc-81938bfcc48d)
 * *Book found*
